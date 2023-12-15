@@ -27,5 +27,3 @@ A budget of 8
 
 Connecting all 4 locations would take 15 and we can build 2 connections with our current budget.
 ```
-
-Please note that in markdown, preformatted text such as the network graph can be represented using backticks ``` to create a code block, which I used to represent the network diagram. The costs and budget points are listed in a simple list format.
